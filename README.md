@@ -8,7 +8,8 @@ NoParam is a privacy-first email validation API that helps prevent fake signups 
 ✅ **Works with popular form plugins**:  
    - Contact Form 7  
    - WPForms  
-   - More coming soon
+   - WordPress Registration Page
+   - WordPress Post Comments Page
 
 ✅ **Privacy-first** – No tracking, no storing, no reselling.  
 ✅ **Easy setup** – Just add your API key and start validating.  
