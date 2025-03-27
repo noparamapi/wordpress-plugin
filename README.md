@@ -15,14 +15,14 @@ NoParam is a privacy-first email validation API that helps prevent fake signups 
 
 ## 📖 Installation  
 
-### **From the WordPress Plugin Directory (Coming Soon)**  
+### **From the WordPress Plugin Directory**  
 1. Go to your WordPress admin dashboard.  
 2. Navigate to **Plugins → Add New**.  
 3. Search for **NoParam Email Validation**.  
 4. Click **Install Now**, then **Activate**.  
 
 ### **Manual Installation**  
-1. [Download the latest release](https://github.com/NoParamAPI/wordpress-plugin/releases).  
+1. [Download from WordPress](https://downloads.wordpress.org/plugin/noparam-email-validation.zip).  
 2. Upload the plugin folder to your WordPress `/wp-content/plugins/` directory.  
 3. Activate the plugin from the WordPress admin panel under **Plugins**.  
 
